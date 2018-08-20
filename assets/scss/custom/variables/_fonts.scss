@@ -1,0 +1,57 @@
+
+@font-face {
+  font-family: "Futura Std Light";
+  src: url("../fonts/FuturaStd-Light.eot");
+  src:
+    url("../fonts/FuturaStd-Light.woff") format("woff"),
+    url("../fonts/FuturaStd-Light.otf") format("opentype"),
+    url("../fonts/FuturaStd-Light.svg#filename") format("svg");
+}
+
+@font-face {
+  font-family: "Futura Std Book";
+  src: url("../fonts/FuturaStd-Book.eot");
+  src:
+    url("../fonts/FuturaStd-Book.woff") format("woff"),
+    url("../fonts/FuturaStd-Book.otf") format("opentype"),
+    url("../fonts/FuturaStd-Book.svg#filename") format("svg");
+}
+
+@font-face {
+  font-family: "Futura Std Medium";
+  src: url("../fonts/FuturaStd-Medium.eot");
+  src:
+    url("../fonts/FuturaStd-Medium.woff") format("woff"),
+    url("../fonts/FuturaStd-Medium.otf") format("opentype"),
+    url("../fonts/FuturaStd-Medium.svg#filename") format("svg");
+}
+
+@font-face {
+  font-family: "Futura Std Heavy";
+  src: url("../fonts/FuturaStd-Heavy.eot");
+  src:
+    url("../fonts/FuturaStd-Heavy.woff") format("woff"),
+    url("../fonts/FuturaStd-Heavy.otf") format("opentype"),
+    url("../fonts/FuturaStd-Heavy.svg#filename") format("svg");
+}
+
+@font-face {
+  font-family: "Futura Std Bold";
+  src: url("../fonts/FuturaStd-Bold.eot");
+  src:
+    url("../fonts/FuturaStd-Bold.woff") format("woff"),
+    url("../fonts/FuturaStd-Bold.otf") format("opentype"),
+    url("../fonts/FuturaStd-Bold.svg#filename") format("svg");
+}
+
+@font-face {
+  font-family: "Futura Std ExtraBold";
+  src: url("../fonts/FuturaStd-ExtraBold.eot");
+  src:
+    url("../fonts/FuturaStd-ExtraBold.woff") format("woff"),
+    url("../fonts/FuturaStd-ExtraBold.otf") format("opentype"),
+    url("../fonts/FuturaStd-ExtraBold.svg#filename") format("svg");
+}
+
+$font-family-sans-serif: "Futura Std Book";
+

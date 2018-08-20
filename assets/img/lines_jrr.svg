@@ -1,0 +1,35 @@
+<svg id="Group_12" data-name="Group 12" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 687.914 224.543">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3 {
+        stroke: #e04403;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #081f2d;
+      }
+    </style>
+  </defs>
+  <line id="Line_1" data-name="Line 1" class="cls-1" x1="493.928" transform="translate(192.486 1.5)"/>
+  <line id="Line_2" data-name="Line 2" class="cls-2" x1="134.348" transform="translate(552.065 223.043)"/>
+  <line id="Line_3" data-name="Line 3" class="cls-2" x1="134.348" transform="translate(1.5 2.29)"/>
+  <line id="Line_4" data-name="Line 4" class="cls-2" x1="134.348" transform="translate(552.065 146.912)"/>
+  <line id="Line_5" data-name="Line 5" class="cls-3" x1="134.612" transform="translate(373.724 146.122)"/>
+  <line id="Line_6" data-name="Line 6" class="cls-3" x1="134.348" transform="translate(552.065 73.416)"/>
+  <line id="Line_7" data-name="Line 7" class="cls-2" x1="134.612" transform="translate(373.724 74.206)"/>
+  <line id="Line_8" data-name="Line 8" class="cls-3" x1="134.348" transform="translate(192.486 73.679)"/>
+</svg>
